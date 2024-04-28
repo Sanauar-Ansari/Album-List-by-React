@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Album-List-by-React/static/css/main.3c54d69c.css",
+    "main.js": "/Album-List-by-React/static/js/main.f8ac0673.js",
+    "index.html": "/Album-List-by-React/index.html",
+    "main.3c54d69c.css.map": "/Album-List-by-React/static/css/main.3c54d69c.css.map",
+    "main.f8ac0673.js.map": "/Album-List-by-React/static/js/main.f8ac0673.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c54d69c.css",
+    "static/js/main.f8ac0673.js"
+  ]
+}
